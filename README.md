@@ -3,7 +3,7 @@ Since I wanted to look into steganography for some time, this is a small project
 
 It provides functionality to **encode** a message in an image and to **decode** the message from the image.
 
-Head over to [the github page](http://stylesuxx.github.io/steganography/) and check out the online decoder and encoder.
+Head over to [the github page](https://rahmanziaur.github.io/Crypto2025Zia/) and check out the online decoder and encoder.
 
 ## About Steganography
 
