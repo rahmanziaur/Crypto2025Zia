@@ -16,7 +16,7 @@ B.Sc. in ICT, MBSTU
 
 ## 📚 Table of Contents
 
-1. [Number Theory Foundations of Cryptography (Q1–Q5)](#number-theory-foundations-of-cryptography)
+1. [Abstract Algebra and Number Theory Foundations of Cryptography (Q1–Q5)](#number-theory-foundations-of-cryptography)
 2. [Modular Arithmetic & the Chinese Remainder Theorem (Q6–Q10)](#modular-arithmetic--the-chinese-remainder-theorem)
 3. [Classical & Symmetric Block Ciphers (Q11–Q15)](#classical--symmetric-block-ciphers)
 4. [Inside AES: Modes, Transformations & Side Channels (Q16–Q20)](#inside-aes-modes-transformations--side-channels)
@@ -27,7 +27,7 @@ B.Sc. in ICT, MBSTU
 
 ---
 
-## Number Theory Foundations of Cryptography
+## Abstract Algebra and Number Theory Foundations of Cryptography
 
 > 🎯 **Use case:** RSA and Diffie–Hellman key generation both rest on primality testing and finite-field/group structure. A flawed primality test — or a misunderstanding of when Z_n is a field versus merely a ring — can silently break a cryptosystem.
 
