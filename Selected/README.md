@@ -10,7 +10,7 @@ B.Sc. in ICT, MBSTU
 | 📝 **Format** | Each question is standalone (no sub-parts) with marks shown at the end |
 | 🎓 **Level** | B.Sc standard — emphasis on derivation, proof, protocol design, and critical analysis rather than plug-and-chug computation |
 
-> Handwritten Assignment, To be Submitted via GitHub as PDF. Develop a excel file and include Assignment URL beside student Roll Number and send me two days before your final exam. The marking style used here may not exactly match the marking scheme used in the final examination. The marks shown here should be considered at half weight for final exam preparation. Please prepare accordingly.
+> Handwritten Assignment, To be Submitted via GitHub as PDF. Develop an excel file and include Assignment URL beside student Roll Number and send me two days before your final exam. The marking style used here may not exactly match the marking scheme used in the final examination. The marks shown here should be considered at half weight for final exam preparation. Please prepare accordingly.
 
 ---
 
