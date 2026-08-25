@@ -33,7 +33,7 @@ Graduate Qualifying / Masters-Level Practice Set
 
 **1.** Prove Fermat's Little Theorem from group-theoretic first principles, then explain how it motivates the Miller–Rabin probabilistic primality test. Apply the test (base $a = 2$) to $n = 561$ and explain why $561$ is a Carmichael number that fools the simpler Fermat test. *(6 marks)*
 
-**2.** Prove that ${Z}$, under addition and multiplication modulo $n$, is a field if and only if $n$ is prime. Illustrate your proof by contrasting the multiplicative structure of $\Z_{11}$ (prime modulus) with $Z_{12}$ (composite modulus). *(5 marks)*
+**2.** Prove that ${Z}$, under addition and multiplication modulo $n$, is a field if and only if $n$ is prime. Illustrate your proof by contrasting the multiplicative structure of $Z_{11}$ (prime modulus) with $Z_{12}$ (composite modulus). *(5 marks)*
 
 **3.** Construct $GF(2^3)$ using the irreducible polynomial $x^3 + x + 1$ over $GF(2)$. Build the multiplication table for a generator element $\alpha$, and determine whether the multiplicative group $GF(2^3)^*$ is cyclic. *(6 marks)*
 
