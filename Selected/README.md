@@ -180,20 +180,3 @@ Client            AS                TGS               Service (S)
 **40.** Critically assess a lightweight cryptographic standard suitable for resource-constrained IoT devices (e.g., NIST's Ascon, selected as the lightweight cryptography standard) against AES-128 in terms of memory footprint, energy consumption, and side-channel resistance. Recommend which is more appropriate for a battery-powered sensor with < 10 KB of RAM. *(4 marks)*
 
 ---
-
-## 📁 Suggested Repository Structure
-
-```
-.
-├── README.md
-├── exam-paper.tex
-└── solutions/
-    ├── q01-q05_number_theory.md
-    ├── q06-q10_modular_arithmetic_crt.md
-    ├── q11-q15_playfair_des.md
-    ├── q16-q20_aes_internals.md
-    ├── q21-q25_rsa_ipsec_dh.md
-    ├── q26-q30_elgamal_ecc_ecdsa.md
-    ├── q31-q35_hash_lattice.md
-    └── q36-q40_protocols.md
-```
