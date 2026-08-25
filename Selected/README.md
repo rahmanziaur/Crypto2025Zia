@@ -2,15 +2,15 @@
 
 **Mawlana Bhashani Science and Technology University, Tangail**
 Department of Information and Communication Technology
-Graduate Qualifying / Masters-Level Practice Set
+B.Sc. in ICT, MBSTU
 
 | | |
 |---|---|
 | 🏆 **Total Questions** | 40 (5 per topic area, 8 topic areas) |
 | 📝 **Format** | Each question is standalone (no sub-parts) with marks shown at the end |
-| 🎓 **Level** | Masters standard — emphasis on derivation, proof, protocol design, and critical analysis rather than plug-and-chug computation |
+| 🎓 **Level** | B.Sc standard — emphasis on derivation, proof, protocol design, and critical analysis rather than plug-and-chug computation |
 
-> This is a revised, flattened version of the original undergraduate exam bank. Every multi-part question has been split into independent, self-contained questions and re-written to Masters-level rigor (proofs, protocol diagrams, security analysis, and design justification), then numbered continuously from 1 to 40.
+> This is a revised, flattened version of the original undergraduate exam bank. Every multi-part question has been split into independent, self-contained questions and re-written to Masters-level rigor (proofs, protocol diagrams, security analysis, and design justification), then numbered continuously from 1 to 40. The marking style used here may not exactly match the marking scheme used in the final examination. The marks shown here should be considered at half weight for final exam preparation. Please prepare accordingly.
 
 ---
 
