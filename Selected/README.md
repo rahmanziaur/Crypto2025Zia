@@ -1,4 +1,4 @@
-# 🔐 ICT 4115: Cryptography and Cyber Law — Masters-Level Question Bank
+# 🔐 ICT 4115: Cryptography and Cyber Law — HANDWRITTEN ASSIGNMENT
 
 **Mawlana Bhashani Science and Technology University, Tangail**
 Department of Information and Communication Technology
