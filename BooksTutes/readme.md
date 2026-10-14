@@ -1,11 +1,3 @@
-Below is a student-oriented `README.md` for the B.Sc. (Engg.) in ICT, MBSTU Fall Semester course on Cryptography and Cyber Law (ICT 4115). It organizes the lecture materials, recommended textbooks, online courses, and supplementary resources into a GitHub-friendly structure.
-
-The README is designed to help students follow lectures systematically, strengthen their understanding of cryptographic concepts, and explore advanced topics such as post-quantum cryptography and quantum cryptography.
-
-## Suggested `README.md`
-
-You can copy the following directly into your course repository's `README.md`. The resources are grouped by learning purpose rather than by institution, so students can follow the materials alongside classroom lectures.
-
 # ICT 4115: Cryptography and Cyber Law
 
 ### B.Sc. (Engg.) in ICT | Fall Semester | MBSTU
@@ -206,7 +198,5 @@ ICT-4115-Cryptography-and-Cyber-Law/
 The filenames are a suggested organization, not a claim that these are the official MBSTU lecture titles.
 
 One important distinction: your supplied “Quantum Cryptography” link is specifically about lattice-based cryptography, which is generally studied as part of post-quantum cryptography. Quantum cryptography instead studies cryptographic techniques that use quantum-mechanical principles. Keeping these terms distinct will help students understand the subject accurately.&#x20;
-
-[image](https://www.google.com/s2/favicons?domain=https://cryptography101.ca\&sz=32)
 
 Cryptography 101 with Alfred Menezes
