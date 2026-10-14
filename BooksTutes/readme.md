@@ -91,7 +91,3 @@ Mawlana Bhashani Science and Technology University (MBSTU)\
 Santosh, Tangail-1902, Bangladesh
 
 *Learn the mathematics. Understand the security assumptions. Evaluate the applications. Use technology responsibly.*
-
-One important distinction: your supplied “Quantum Cryptography” link is specifically about lattice-based cryptography, which is generally studied as part of post-quantum cryptography. Quantum cryptography instead studies cryptographic techniques that use quantum-mechanical principles. Keeping these terms distinct will help students understand the subject accurately.&#x20;
-
-Cryptography 101 with Alfred Menezes
