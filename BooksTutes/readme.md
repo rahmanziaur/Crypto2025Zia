@@ -84,9 +84,29 @@ Recommended materials include:
 
 Consult the course website for available books, lecture materials, and supplementary resources. Use these materials to reinforce your understanding of cryptographic theory and its applications.
 
+
+### 5. University of Cambridge — Cryptography Lecture Slides
+
+**Resource:** [Cryptography Lecture Slides (PDF) — University of Cambridge](https://www.cl.cam.ac.uk/teaching/2223/Crypto/crypto-slides-2up.pdf)
+
+These lecture slides, prepared by Markus Kuhn at the University of Cambridge, provide a structured introduction to modern cryptographic techniques and the security principles behind widely used cryptographic standards.
+
+Topics include:
+- Historic ciphers and perfect secrecy
+- Semantic security and block ciphers
+- Modes of operation and authenticated encryption
+- Message authenticity and cryptographic hash functions
+- Key distribution and number theory
+- Group theory and the discrete logarithm problem
+- RSA and digital signatures
+
+**Recommended use:** Use these slides as a concise revision resource alongside classroom lectures. They are particularly useful for connecting cryptographic algorithms with security definitions, mathematical foundations, and practical security requirements.
+
+**Note:** The linked slides are from the 2022–2023 academic year and are supplementary study materials, not a substitute for the official MBSTU syllabus.
+
 **Recommended use:** Explore the available books and resources that match the topics discussed in class. Some materials may assume prior knowledge of discrete mathematics, probability, or theoretical computer science.
 
-### 5. NPTEL — Cryptography and Network Security
+### 6. NPTEL — Cryptography and Network Security
 
 **Resource:** [Cryptography and Network Security — IIT Kharagpur](https://nptel.ac.in/courses/106105162)
 
